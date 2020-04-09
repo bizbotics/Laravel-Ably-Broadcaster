@@ -1,5 +1,5 @@
 {
-    "name": "springboardvr/laravel-ably-broadcaster",
+    "name": "bizbotics/laravel-ably-broadcaster",
     "description": "An Ably broadcaster for Laravel",
     "keywords": [
         "springboardvr",
@@ -7,7 +7,7 @@
         "ably",
         "laravel-broadcaster"
     ],
-    "homepage": "https://github.com/springboardvr/laravel-ably-broadcaster",
+    "homepage": "https://github.com/bizbotics/laravel-ably-broadcaster",
     "license": "MIT",
     "type": "library",
     "authors": [
